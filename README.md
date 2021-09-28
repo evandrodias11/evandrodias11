@@ -1,5 +1,7 @@
 Hello world 👋
 
+Adorador do mundo da tecnologia desde sempre.
+
 Estou buscando a transição para a carreira Dev <br>
 Atualmente focado no curso DevInHouse - Full Stack developer , oferecido pelo Senai/SC
 
