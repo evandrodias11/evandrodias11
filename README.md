@@ -9,7 +9,7 @@ Atualmente focado no curso DevInHouse - Full Stack developer , oferecido pelo Se
 <a href="http://github.com/evandrodias11"/>
 <img heigth="400px" width="400px" src="https://github-readme-stats.vercel.app/api?username=evandrodias11&show_icons=true&count_private=true&theme=dracula"/>
 <img heigth="400px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrodias11&layout=compact&theme=dracula"/>
-</div>
+</div></a>
 
 ##
 HABILIDADES:
