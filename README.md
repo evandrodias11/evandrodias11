@@ -1,9 +1,10 @@
 Hello world 👋
 
-Adorador do mundo da tecnologia desde sempre.
+Adorador do mundo da tecnologia desde sempre !
 
-Estou buscando a transição para a carreira Dev <br>
-Atualmente focado no curso DevInHouse - Full Stack developer , oferecido pelo Senai/SC
+- Buscando a transição para a carreira Dev <br>
+- 📚 Estudante DevInHouse SENAI/SC.
+- 🚀 Dev Full Stack em formação.
 
 <div>
 <a href="http://github.com/evandrodias11"/>
