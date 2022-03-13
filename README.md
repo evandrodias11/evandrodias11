@@ -2,7 +2,7 @@ Hello world 👋
 
 Adorador do mundo da tecnologia desde sempre !
 
-- Buscando a transição para a carreira Dev <br>
+- 💻 Desenvolvedor FullStack Jr na Paripassu <br>
 - 📚 Estudante DevInHouse - Full Stack SENAI/SC.
 
 <div>
