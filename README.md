@@ -2,7 +2,7 @@ Hello world 👋
 
 Adorador do mundo da tecnologia desde sempre !
 
-- 💻 Desenvolvedor FullStack Jr na Paripassu <br>
+- 💻 Desenvolvedor FullStack Jr na <a href="https://www.paripassu.com.br/">Paripassu</a> <br>
 - 👨🏼‍🎓 Certificado DevInHouse - Full Stack SENAI/SC.
 
 <div>
