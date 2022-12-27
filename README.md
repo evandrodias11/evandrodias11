@@ -3,7 +3,8 @@ Hello world 👋
 Adorador do mundo da tecnologia desde sempre !
 
 - 💻 Desenvolvedor FullStack Jr na <a href="https://www.paripassu.com.br/">Paripassu</a> <br>
-- 👨🏼‍🎓 Certificado DevInHouse - Full Stack SENAI/SC.
+- 👨🏼‍🎓 Certificado DevInHouse - Full Stack SENAI/SC (900hrs)
+- 👨🏼‍🎓 Cursando análise e desenenvolvimento de sistemas.
 
 <div>
 <a href="http://github.com/evandrodias11"/>
