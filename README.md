@@ -4,15 +4,10 @@ Adorador do mundo da tecnologia desde sempre !
 
 - 💻 Desenvolvedor FullStack Jr na <a href="https://www.paripassu.com.br/">Paripassu</a> <br>
 - 👨🏼‍🎓 Certificado DevInHouse - Full Stack SENAI/SC (900hrs)
-- 👨🏼‍🎓 Cursando análise e desenenvolvimento de sistemas.
+- 👨🏼‍🎓 Cursando análise e desenenvolvimento de sistemas.<br>
 
-<div>
-<a href="http://github.com/evandrodias11"/>
-<img heigth="400px" width="400px" src="https://github-readme-stats.vercel.app/api?username=evandrodias11&show_icons=true&count_private=true&theme=dracula"/>
-<img heigth="400px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrodias11&layout=compact&theme=dracula"/>
-</div></a>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;Minhas Skills </h3><br>
 
 **Aplicações e Dados**
 
